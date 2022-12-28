@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form method="post" action="Loginform">
+<div>
+    Username: <input type="text" name="username"/> <br/>
+</div>
+<div>   
+ Password: <input type="password" name="password"/> <br/>
+</div>
+    Speaking language:
+<input type="checkbox" name="language" value="english" />English
+<input type="checkbox" name="language" value="french" />French
+    <input type="submit" value="Login" />
+</form>
+</body>
+</html>

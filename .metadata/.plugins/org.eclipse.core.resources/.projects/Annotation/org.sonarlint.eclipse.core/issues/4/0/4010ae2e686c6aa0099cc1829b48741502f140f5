@@ -1,0 +1,33 @@
+
+r
+java:S1161":Add the "@Override" annotation above this method signature(ÂÍ¡‘úÿÿÿÿ8Êş›îÔ0H…RMAJORZ
+CODE_SMELL
+†
+java:S1989'"PHandle the following exception that could be thrown by "getWriter": IOException.(×–·›8Êş›îÔ0H„RMINORZVULNERABILITY
+
+java:S1989 "YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¯æ¯í8Êş›îÔ0H‡RMINORZVULNERABILITY
+”
+java:S1989#"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ù¬âÅøÿÿÿÿ8Êş›îÔ0H‰RMINORZVULNERABILITY
+†
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(×–·›8Êş›îÔ0HŠRMINORZVULNERABILITY
+k	java:S106"9Replace this use of System.out or System.err by a logger.(£µ„8Êş›îÔ0HŒRMAJORZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(‚åñ8Êş›îÔ0HRMAJORZ
+CODE_SMELL
+q
+java:S2184%"FCast one of the operands of this multiplication operation to a "long".(ĞòÔ8Êş›îÔ0H€RMINORZBUG
+f
+java:S6212#"/Declare this local variable with "var" instead.(ù¬âÅøÿÿÿÿ8Êş›îÔ0HˆRINFOZ
+CODE_SMELL
+m
+java:S1161-":Add the "@Override" annotation above this method signature(‚“¶î8Êş›îÔ0H‹RMAJORZ
+CODE_SMELL
+a
+java:S6212 "/Declare this local variable with "var" instead.(¯æ¯í8Êş›îÔ0H†RINFOZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(ÅµÄè8Êş›îÔ0HƒRMAJORZ
+CODE_SMELL
+j	java:S106."9Replace this use of System.out or System.err by a logger.(‘›?8Êş›îÔ0H‚RMAJORZ
+CODE_SMELL
