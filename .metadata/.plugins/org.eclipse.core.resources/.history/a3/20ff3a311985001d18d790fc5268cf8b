@@ -1,8 +1,0 @@
-package com.form;
-
-import javax.servlet.http.HttpServlet;
-
-public class Loginform extends HttpServlet{
-
-	
-}

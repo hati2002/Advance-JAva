@@ -38,7 +38,6 @@ public class Servlet1 extends HttpServlet{
 			String password="2000";
 			Connection con=DriverManager.getConnection(url, username, password);
 			
-			
 			//create a query
 			String query="insert into persons(name,city,mail) values (?,?,?)";
 			PreparedStatement ps=con.prepareStatement(query);
@@ -46,7 +45,7 @@ public class Servlet1 extends HttpServlet{
 			ps.setString(1, name);
 			ps.setString(2, mail);
 			ps.setString(3, city);
-			
+		
 		    ps.executeUpdate();
 			
 			con.close();

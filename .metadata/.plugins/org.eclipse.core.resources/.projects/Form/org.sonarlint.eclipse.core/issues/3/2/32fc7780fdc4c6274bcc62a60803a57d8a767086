@@ -1,20 +1,27 @@
 
-y
-java:S1128"ARemove this unused import 'java.util.concurrent.locks.Condition'.(ğÍÄ°øÿÿÿÿ8µÚ™Õ0HîRMINORZ
-CODE_SMELL
-œ
-java:S19892"aHandle the following exceptions that could be thrown by "include": ServletException, IOException.(—‚™Öûÿÿÿÿ8×›ıÕ0H¨RMINORZVULNERABILITY
-…
-java:S1192#"JDefine a constant instead of duplicating this literal "<h2>name:" 3 times.(›ğ¯şÿÿÿÿ8‡–¾ôÔ0HÙRCRITICALZ
-CODE_SMELL
 †
-java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞ8Şî©óÔ0HØRMINORZVULNERABILITY
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞ8Şî©óÔ0Hé
+RMINORZVULNERABILITY
+m
+java:S1161":Add the "@Override" annotation above this method signature(†‚ÿ8Şî©óÔ0Hê
+RMAJORZ
+CODE_SMELL
 a
-java:S62121"/Declare this local variable with "var" instead.(Œ¥‰€8×›ıÕ0H§RINFOZ
+java:S62121"/Declare this local variable with "var" instead.(Œ¥‰€8×›ıÕ0Hë
+RINFOZ
+CODE_SMELL
+y
+java:S1128"ARemove this unused import 'java.util.concurrent.locks.Condition'.(ğÍÄ°øÿÿÿÿ8µÚ™Õ0Hì
+RMINORZ
 CODE_SMELL
 
-java:S1192#"FDefine a constant instead of duplicating this literal "</h2>" 3 times.(›ğ¯şÿÿÿÿ8‡–¾ôÔ0HİRCRITICALZ
+java:S1192#"FDefine a constant instead of duplicating this literal "</h2>" 3 times.(›ğ¯şÿÿÿÿ8‡–¾ôÔ0Hí
+RCRITICALZ
 CODE_SMELL
-m
-java:S1161":Add the "@Override" annotation above this method signature(†‚ÿ8Şî©óÔ0H×RMAJORZ
+œ
+java:S19892"aHandle the following exceptions that could be thrown by "include": ServletException, IOException.(—‚™Öûÿÿÿÿ8×›ıÕ0Hñ
+RMINORZVULNERABILITY
+…
+java:S1192#"JDefine a constant instead of duplicating this literal "<h2>name:" 3 times.(›ğ¯şÿÿÿÿ8‡–¾ôÔ0Hò
+RCRITICALZ
 CODE_SMELL

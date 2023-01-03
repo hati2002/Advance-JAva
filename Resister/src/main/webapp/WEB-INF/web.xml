@@ -12,6 +12,19 @@ xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/
 <url-pattern>/Servlet1</url-pattern>
 </servlet-mapping>
 
+<!-- filter declare -->
+<filter>
+<filter-name>MyFilter</filter-name>
+<filter-class>com.resister.MyFilter</filter-class>
+</filter>
+
+<!-- filter mapping -->
+<filter-mapping>
+<filter-name>MyFilter</filter-name>
+<url-pattern>/Servlet1</url-pattern>
+</filter-mapping>
+
+
   <display-name>Resister</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
