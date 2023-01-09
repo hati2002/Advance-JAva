@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE college SYSTEM "first.dtd">
+<college>
+<studend>
+<name>Suman</name>
+<branch>Ece</branch>
+<id>1901298306</id>
+<address>
+<state>WB</state>
+<dis>East medinipur</dis>
+<pin>721448</pin>
+</address>
+</studend>
+</college>

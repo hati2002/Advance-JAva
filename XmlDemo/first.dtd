@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT college (studend)>
+<!ELEMENT studend (name,branch,id,address)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT branch (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+
+<!ELEMENT address (state,dis,pin)>
+<!ELEMENT state (#PCDATA)>
+<!ELEMENT dis (#PCDATA)>
+<!ELEMENT pin (#PCDATA)>
+
