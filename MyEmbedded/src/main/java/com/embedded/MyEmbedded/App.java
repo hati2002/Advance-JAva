@@ -19,13 +19,22 @@ public class App
         student.setName("suman");
         student.setLocation("Kolkata");
         
+        //create certificate class object
+        Certificate certificate=new Certificate();
+        certificate.setCourse("Java");
+        certificate.setDuration("3 month");
+        
+        student.setCerti(certificate);
+        
+        //open the session
         Session session=factory.openSession();
         
         //save the data
         Transaction transaction=session.beginTransaction();
         session.save(student);
-        
         transaction.commit();
+        
         session.close();
+        factory.close();
     }
 }
