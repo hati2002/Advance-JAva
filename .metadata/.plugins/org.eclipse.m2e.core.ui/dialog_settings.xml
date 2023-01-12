@@ -19,6 +19,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\tech\sanityio\ManyMap\src\main\java\com\onetomany\ManyMap\App.java"/>
+			<item value="C:\Users\tech\sanityio\MyEmbedded\src\main\java\com\embedded\MyEmbedded\Certificate.java"/>
 			<item value="C:\Users\tech\sanityio\MyHibernate\src\main\java\com\firsthibernate\MyHibernate\App.java"/>
 			<item value="C:\Users\tech\sanityio\MyHibernate\src\main\java\com\firsthibernate\MyHibernate\FetchData.java"/>
 			<item value="C:\Users\tech\sanityio\MyHibernate\pom.xml"/>
@@ -46,6 +48,9 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.hql.HqlProject"/>
+			<item value="com.onetomany.ManyMap"/>
+			<item value="com.onetoone.Mapping"/>
 			<item value="com.embedded.MyEmbedded"/>
 			<item value="com.embedded.EmbeddedHibernate"/>
 			<item value="com.project.FirstHib"/>
@@ -54,12 +59,18 @@
 			<item value="com.hybernate.FirstHybernate"/>
 		</list>
 		<list key="groupId">
+			<item value="com.hql"/>
+			<item value="com.onetomany"/>
+			<item value="com.onetoone"/>
 			<item value="com.embedded"/>
 			<item value="com.project"/>
 			<item value="com.firsthibernate"/>
 			<item value="com.hybernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="HqlProject"/>
+			<item value="ManyMap"/>
+			<item value="Mapping"/>
 			<item value="MyEmbedded"/>
 			<item value="EmbeddedHibernate"/>
 			<item value="FirstHib"/>
