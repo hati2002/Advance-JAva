@@ -19,6 +19,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\tech\sanityio\HqlProject\src\main\java\com\cascade\Question.java"/>
 			<item value="C:\Users\tech\sanityio\ManyMap\src\main\java\com\onetomany\ManyMap\App.java"/>
 			<item value="C:\Users\tech\sanityio\MyEmbedded\src\main\java\com\embedded\MyEmbedded\Certificate.java"/>
 			<item value="C:\Users\tech\sanityio\MyHibernate\src\main\java\com\firsthibernate\MyHibernate\App.java"/>
@@ -48,6 +49,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.spring.SpringExample"/>
 			<item value="com.hql.HqlProject"/>
 			<item value="com.onetomany.ManyMap"/>
 			<item value="com.onetoone.Mapping"/>
@@ -59,6 +61,7 @@
 			<item value="com.hybernate.FirstHybernate"/>
 		</list>
 		<list key="groupId">
+			<item value="com.spring"/>
 			<item value="com.hql"/>
 			<item value="com.onetomany"/>
 			<item value="com.onetoone"/>
@@ -68,6 +71,7 @@
 			<item value="com.hybernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringExample"/>
 			<item value="HqlProject"/>
 			<item value="ManyMap"/>
 			<item value="Mapping"/>
